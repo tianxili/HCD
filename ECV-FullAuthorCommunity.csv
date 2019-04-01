@@ -1,0 +1,708 @@
+"author","degree","community"
+"Boxin Tang",14,1
+"Rahul Mukerjee",8,1
+"Derek Bingham",6,1
+"Hongquan Xu",6,1
+"Peter Z G Qian",6,1
+"Randy R Sitter",6,1
+"C Devon Lin",5,1
+"David M Steinberg",5,1
+"Dennis K J Lin",5,1
+"Neil A Butler",5,1
+"Ching-Shui Cheng",4,1
+"Frederick K H Phoa",4,1
+"John Stufken",4,1
+"Hegang H Chen",3,1
+"Shan Ba",3,1
+"V Roshan Joseph",3,1
+"David Dunson",50,2
+"Alan E Gelfand",36,2
+"Abel Rodriguez",22,2
+"Gareth Roberts",22,2
+"Hemant Ishwaran",19,2
+"Michael I Jordan",18,2
+"James O Berger",17,2
+"Marc G Genton",17,2
+"Peter Muller",17,2
+"Gary L Rosner",16,2
+"J Sunil Rao",16,2
+"Omiros Papaspiliopoulos",16,2
+"Andrew O Finley",15,2
+"Mike West",15,2
+"Steven N MacEachern",15,2
+"Sudipto Banerjee",15,2
+"Tilmann Gneiting",14,2
+"Carlos M Carvalho",13,2
+"James G Scott",12,2
+"Ju-Hyun Park",12,2
+"Mark F J Steel",12,2
+"Adrian E Raftery",11,2
+"Lawrence Carin",11,2
+"Michael L Stein",10,2
+"Haavard Rue",9,2
+"Helene Massam",9,2
+"Huiyan Sang",9,2
+"Anirban Bhattacharya",8,2
+"David M Blei",8,2
+"Holger Dette",8,2
+"Matthew J Beal",8,2
+"Yee Whye Teh",8,2
+"Zhiyi Chi",8,2
+"Antonio Lijoi",7,2
+"Athanasios Kottas",7,2
+"Hao Purdue Zhang",7,2
+"Igor Prunster",7,2
+"J E Griffin",7,2
+"Martin Schlather",7,2
+"Nicholas G Polson",7,2
+"Chris Hans",6,2
+"Douglas W Nychka",6,2
+"Jonathan Tawn",6,2
+"Natesh Pillai",6,2
+"Nial Friel",6,2
+"Paul Fearnhead",6,2
+"Steve Brooks",6,2
+"Adrian Dobra",5,2
+"Amy H Herring",5,2
+"Fernando A Quintana",5,2
+"Jason A Duan",5,2
+"Joseph E Lucas",5,2
+"Maria De Iorio",5,2
+"Michele Guindani",5,2
+"Montserrat Fuentes",5,2
+"Nicolas Chopin",5,2
+"Petros Dellaportas",5,2
+"Robert J Kohn",5,2
+"Rui Paulo",5,2
+"Stefano Favaro",5,2
+"Christopher K Carter",4,2
+"Frederick Wong",4,2
+"Jeffrey Chang",4,2
+"Joseph R Nevins",4,2
+"Leah J Welty",4,2
+"Lianming Wang",4,2
+"P Giudici",4,2
+"Quanli Wang",4,2
+"R King",4,2
+"Ramses H Mena",4,2
+"Sara Martino",4,2
+"Scott A Sisson",4,2
+"Stephen G Walker",4,2
+"Viatcheslav B Melas",4,2
+"Ya Xue",4,2
+"A N Pettitt",3,2
+"Alexandros Beskos",3,2
+"Brian J Reich",3,2
+"C F Sirmans",3,2
+"Fan Li",3,2
+"George Casella",3,2
+"Hyon-Jung Kim",3,2
+"Ilenia Epifani",3,2
+"James S Hodges",3,2
+"Jesper Moller",3,2
+"Jianhua Hu",3,2
+"Konstantinos Kalogeropoulos",3,2
+"M J Bayarri",3,2
+"Peter D Hoff",3,2
+"R Reeves",3,2
+"Sanjib Basu",3,2
+"Shyamal Das Peddada",3,2
+"Siddhartha Chib",3,2
+"Thais C O Fonseca",3,2
+"Timothy E Hanson",3,2
+"Trevor Park",3,2
+"Valen E Johnson",3,2
+"Yunwen Yang",3,2
+"James R Robins",16,3
+"Haibo Zhou",11,3
+"Ian L Dryden",9,3
+"Dylan S Small",8,3
+"Huiling Le",7,3
+"Paul R Rosenbaum",7,3
+"Tapabrata Maiti",7,3
+"Zhiqiang Tan",7,3
+"Andrew T A Wood",6,3
+"Hua Yun Chen",6,3
+"Stijn Vansteelandt",6,3
+"Andrea Rotnitzky",5,3
+"Eric J Tchetgen",5,3
+"Getulio J A Amaral",5,3
+"Jeffrey H Silber",5,3
+"Partha Lahiri",5,3
+"Thomas R Ten Have",5,3
+"Wei Yann Tsai",5,3
+"Gauri Sankar Datta",4,3
+"J N K Rao",4,3
+"Ross L Prentice",4,3
+"Tyler J VanderWeele",4,3
+"Xiaodong Luo",4,3
+"C Y Wang",3,3
+"Constantine E Frangakis",3,3
+"David Daniel Smith",3,3
+"Fabrizia Mealli",3,3
+"Jing Cheng",3,3
+"Lihong Qi",3,3
+"Mike Baiocchi",3,3
+"Qiang Xu",3,3
+"Scott Lorch",3,3
+"Sharon L Lohr",3,3
+"Tyler J Vanderweele",3,3
+"Wayne A Fuller",3,3
+"Marloes H Maathuis",13,4
+"Jon A Wellner",11,4
+"Sungkyu Jung",8,4
+"Nilanjan Chatterjee",7,4
+"Piet Groeneboom",6,4
+"Alfred Kume",4,4
+"Fadoua Balabdaoui",4,4
+"Richard Samworth",4,4
+"Lutz Dumbgen",3,4
+"Mark van der Laan",3,4
+"Michael G Hudgens",3,4
+"Nicholas P Jewell",3,4
+"Peter Spirtes",3,4
+"Richard Scheines",3,4
+"Tanya Henneman",3,4
+"Iain M Johnstone",36,5
+"Bernard W Silverman",23,5
+"Subhashis Ghosal",13,5
+"Felix Abramovich",9,5
+"Aad van der Vaart",8,5
+"Axel Munk",8,5
+"Marc Raimondo",8,5
+"Theofanis Sapatinas",8,5
+"Anindya Roy",7,5
+"Dominique Picard",7,5
+"A C Davison",6,5
+"Gerard Kerkyacharian",6,5
+"Marianna Pensky",6,5
+"Aad W van der Vaart",5,5
+"J H van Zanten",5,5
+"Merlise A Clyde",5,5
+"D A S Fraser",4,5
+"R de Jonge",4,5
+"Chong Tu",3,5
+"Domenico Marinucci",3,5
+"Grace Y Yi",3,5
+"Judith Rousseau",3,5
+"N Reid",3,5
+"Nidhan Choudhuri",3,5
+"P Baldi",3,5
+"Robert L Wolpert",3,5
+"Jonathan E Taylor",25,6
+"Joseph G Ibrahim",25,6
+"Hongtu Zhu",12,6
+"Armin Schwartzman",8,6
+"Stephan F Huckemann",8,6
+"Heping Zhang",7,6
+"Bradley S Peterson",6,6
+"Stuart R Lipsitz",6,6
+"Ming-Hui Chen",5,6
+"Rabi Bhattacharya",5,6
+"Vic Patrangenaru",5,6
+"Ja-Yong Koo",4,6
+"Peter T Kim",4,6
+"Weili Lin",4,6
+"Yimei Li",4,6
+"Athanasia Petsa",3,6
+"Guy P Nason",3,6
+"Niansheng Tang",3,6
+"T Tony Cai",58,7
+"Larry Wasserman",43,7
+"Jiashun Jin",37,7
+"Christopher Genovese",35,7
+"Bradley Efron",29,7
+"Yoav Benjamini",28,7
+"David L Donoho",26,7
+"John D Storey",25,7
+"Sanat K Sarkar",20,7
+"Joseph P Romano",17,7
+"David Siegmund",15,7
+"Etienne Roquain",14,7
+"Harrison H Zhou",13,7
+"Helmut Finner",13,7
+"Markus Roters",13,7
+"Thorsten Dickhaus",13,7
+"Peter L Bartlett",12,7
+"Chunming Zhang",11,7
+"Lawrence D Brown",11,7
+"Michael Wolf",11,7
+"Daniel Yekutieli",10,7
+"E L Lehmann",10,7
+"Richard Nickl",10,7
+"Wenge Guo",10,7
+"Gilles Blanchard",9,7
+"Jiahua Chen",9,7
+"Sylvain Arlot",8,7
+"Wenguang Sun",8,7
+"Arthur Cohen",7,7
+"Dean P Foster",7,7
+"Harold B Sackrowitz",7,7
+"Hongyu Zhao",7,7
+"Markus Kalisch",7,7
+"Minya Xu",7,7
+"Pengfei Li",7,7
+"Abbas Khalili",6,7
+"Gabor Lugosi",6,7
+"Hannes Leeb",6,7
+"Kathryn Roeder",6,7
+"Mark G Low",6,7
+"Olivier Bousquet",6,7
+"Robert A Stine",6,7
+"Bala Rajaratnam",5,7
+"Edsel A Pena",5,7
+"Ery Arias-Castro",5,7
+"James X Hu",5,7
+"Jayanta K Ghosh",5,7
+"Nancy Ruonan Zhang",5,7
+"Tao Yu",5,7
+"Vadim Grinshtein",5,7
+"Abba M Krieger",4,7
+"Arijit Chakrabarti",4,7
+"Faming Liang",4,7
+"Fanny Villers",4,7
+"Florian Frommlet",4,7
+"Isabella Verdinelli",4,7
+"John D Kalbfleisch",4,7
+"M Perone Pacifico",4,7
+"Malgorzata Bogdan",4,7
+"William Kleiber",4,7
+"X Jessie Jeng",4,7
+"Andrey Pepelyshev",3,7
+"Arnaud Durand",3,7
+"Azeem M Shaikh",3,7
+"Daniel Cooley",3,7
+"Dongyu Lin",3,7
+"Evarist Gine",3,7
+"Hanfeng Chen",3,7
+"James W Taylor",3,7
+"Janet E Heffernan",3,7
+"Jian Zhang",3,7
+"Jiayang Sun",3,7
+"John Rice",3,7
+"Jooyoung Jeon",3,7
+"Joshua D Habiger",3,7
+"Louigi Addario-Berry",3,7
+"Luc Devroye",3,7
+"Lyle H Ungar",3,7
+"Marc Hoffmann",3,7
+"Michael Levine",3,7
+"Min Yang",3,7
+"Nicolas Broutin",3,7
+"Philippe Naveau",3,7
+"Richard Charnigo",3,7
+"Ruth Heller",3,7
+"Stefanie Biedermann",3,7
+"Steven Buyske",3,7
+"Wei Liu",3,7
+"Weng Kee Wong",3,7
+"Wensong Wu",3,7
+"Yaniv Plan",3,7
+"Ying Sun",3,7
+"Dan Yu Lin",34,8
+"Donglin Zeng",32,8
+"Xuming He",27,8
+"Lu Tian",20,8
+"L J Wei",19,8
+"Jing Qin",18,8
+"Michael R Kosorok",18,8
+"Guosheng Yin",17,8
+"Jason P Fine",17,8
+"Tianxi Cai",17,8
+"Zhezhen Jin",12,8
+"Zhiliang Ying",11,8
+"Jianwen Cai",9,8
+"Jing Ning",8,8
+"Kani Chen",8,8
+"Yu Shen",8,8
+"Bee Leng Lee",7,8
+"Limin Peng",7,8
+"Thomas H Scheike",7,8
+"Yi Li",7,8
+"Yijian Huang",7,8
+"Bin Nan",6,8
+"Hao Liu",6,8
+"Hui Li",6,8
+"David M Zucker",5,8
+"Hajime Uno",5,8
+"Torben Martinussen",5,8
+"Yu Cheng",5,8
+"David B Wolfson",4,8
+"Jun S Liu",4,8
+"Jun Yan",4,8
+"Masoud Asgharian",4,8
+"Robert L Strawderman",4,8
+"Scott D Solomon",4,8
+"Xingwei Tong",4,8
+"Yuhyun Park",4,8
+"Li Chen",3,8
+"Lynn M Johnson",3,8
+"M A Goldwasser",3,8
+"Mei-Jie Zhang",3,8
+"Peter X-K Song",3,8
+"Pierre-Jerome Bergeron",3,8
+"Qingxia Chen",3,8
+"Stephen Portnoy",3,8
+"Yihua Zhao",3,8
+"Raymond J Carroll",80,9
+"Naisyin Wang",33,9
+"Xihong Lin",33,9
+"Enno Mammen",18,9
+"Wenyang Zhang",18,9
+"Zongwu Cai",14,9
+"Annie Qu",11,9
+"Jianxin Pan",10,9
+"Xiaoping Xu",10,9
+"Arnab Maity",9,9
+"Byeong U Park",9,9
+"Jens Perch Nielsen",9,9
+"Kyusang Yu",9,9
+"Weiping Zhang",8,9
+"Ying Wei",8,9
+"Zhongyi Zhu",8,9
+"Wing K Fung",7,9
+"Huixia Judy Wang",6,9
+"Jianhui Zhou",6,9
+"Roger Koenker",6,9
+"Alan H Welsh",5,9
+"Lan Xue",5,9
+"Richard Huggins",5,9
+"Vincent J Carey",5,9
+"Xiang Liu",5,9
+"You-Gan Wang",5,9
+"Zhijie Xiao",5,9
+"Gilbert Mackenzie",4,9
+"Li Wang",4,9
+"Sokbae Lee",4,9
+"Stefan Sperlich",4,9
+"Yong Zhou",4,9
+"Bent Nielsen",3,9
+"Bernd Fitzenberger",3,9
+"Bruce G Lindsay",3,9
+"D Kuang",3,9
+"Mi-Ok Kim",3,9
+"Young Kyung Lee",3,9
+"Peter Hall",101,10
+"Hans-Georg Muller",62,10
+"Fang Yao",44,10
+"Jane-Ling Wang",44,10
+"Lixing Zhu",44,10
+"Hua Liang",35,10
+"Gerda Claeskens",19,10
+"Jeffrey S Morris",18,10
+"Yanyuan Ma",17,10
+"Yehua Li",17,10
+"Ciprian M Crainiceanu",16,10
+"Aurore Delaigle",15,10
+"David Ruppert",15,10
+"Jeng-Min Chiou",14,10
+"Wensheng Guo",13,10
+"Piotr Kokoszka",12,10
+"Wolfgang Karl Hardle",11,10
+"Anastasios A Tsiatis",10,10
+"Liugen Xue",10,10
+"Alexander Meister",9,10
+"Catherine A Sugar",9,10
+"Chong-Zhi Di",9,10
+"Hernando C Ombao",9,10
+"Hulin Wu",9,10
+"Mohammad Hosseini-Nasab",9,10
+"Nils Lid Hjort",9,10
+"Pai-Ling Li",9,10
+"Robertas Gabrys",9,10
+"Siegfried Hormann",9,10
+"Tailen Hsing",9,10
+"Thomas C M Lee",9,10
+"Ulrich Stadtmuller",9,10
+"Ana-Maria Staicu",8,10
+"Bani Mallick",8,10
+"Daniel Gervini",8,10
+"Lajos Horvath",8,10
+"R Todd Ogden",8,10
+"Rainer von Sachs",8,10
+"Alois Kneip",7,10
+"Damla Senturk",7,10
+"Philip J Brown",7,10
+"Tatyana Krivobokova",7,10
+"Yan Sun",7,10
+"Yingxing Li",7,10
+"Feifang Hu",6,10
+"Jean D Opsomer",6,10
+"Lan Zhou",6,10
+"Malay Ghosh",6,10
+"Pascal Sarda",6,10
+"Philip T Reiss",6,10
+"Qihua Wang",6,10
+"Yi-Hau Chen",6,10
+"Ci-Ren Jiang",5,10
+"Debajyoti Sinha",5,10
+"Goran Kauermann",5,10
+"Jianwei Chen",5,10
+"Marina Vannucci",5,10
+"Martica Hall",5,10
+"Oliver B Linton",5,10
+"Robert T Krafty",5,10
+"Shubhankar Ray",5,10
+"Susanne M Schennach",5,10
+"William F Rosenberger",5,10
+"Barry Rowlingson",4,10
+"Bitao Liu",4,10
+"David Kraus",4,10
+"Denis Heng-Yan Leung",4,10
+"Hongxiao Zhu",4,10
+"Jeffrey D Hart",4,10
+"John H Maddocks",4,10
+"John Staudenmayer",4,10
+"Kehui Chen",4,10
+"Lu Lin",4,10
+"Ming Dai",4,10
+"Peter J Diggle",4,10
+"Theo Gasser",4,10
+"Victor M Panaretos",4,10
+"Xia Cui",4,10
+"Biao Zhang",3,10
+"Brent A Coull",3,10
+"Chong Gu",3,10
+"Christophe Crambes",3,10
+"D Campbell",3,10
+"David S Stoffer",3,10
+"Duchwan Ryu",3,10
+"G Hooker",3,10
+"James O Ramsay",3,10
+"Jiguo Cao",3,10
+"John P Buonaccorsi",3,10
+"Louise M Ryan",3,10
+"Michal Benko",3,10
+"Rainer Dahlhaus",3,10
+"Ryan Janicki",3,10
+"Simon N Wood",3,10
+"Steven E Lipshultz",3,10
+"Suojin Wang",3,10
+"Hansheng Wang",46,11
+"Bing Li",26,11
+"R Dennis Cook",26,11
+"Yingcun Xia",26,11
+"Liping Zhu",24,11
+"Chih-Ling Tsai",20,11
+"Lexin Li",19,11
+"Liqiang Ni",12,11
+"Francesca Chiaromonte",9,11
+"Peng Zeng",8,11
+"Changliang Zou",7,11
+"Hongyuan Zha",7,11
+"Mathias Drton",7,11
+"Xiangrong Yin",7,11
+"Robert E Weiss",6,11
+"Shaoli Wang",6,11
+"Yuexiao Dong",6,11
+"Zhishen Ye",6,11
+"Howard D Bondell",5,11
+"Ronghua Luo",5,11
+"Thomas S Richardson",5,11
+"Zhenghui Feng",5,11
+"Songqiao Wen",4,11
+"Xin Chen",4,11
+"Baiqi Miao",3,11
+"C Thomas Agnan",3,11
+"Dominique Chouaniere",3,11
+"Ker-Chau Li",3,11
+"Kerby Shedden",3,11
+"Louis Ferre",3,11
+"Manabu Kuroki",3,11
+"Michel Grzebyk",3,11
+"Pascal Wild",3,11
+"Tao Wang",3,11
+"Yve Aragon",3,11
+"Hao Helen Zhang",41,12
+"Xiaotong Shen",26,12
+"Yufeng Liu",26,12
+"Yichao Wu",25,12
+"J S Marron",19,12
+"Jeongyoun Ahn",9,12
+"Michael J Todd",9,12
+"Junhui Wang",7,12
+"Wing Hung Wong",7,12
+"Yongdai Kim",7,12
+"Amnon Neeman",6,12
+"George C Tseng",6,12
+"Xuegong Zhang",6,12
+"Andrew B Nobel",5,12
+"Jon D McAuliffe",5,12
+"Keith M Muller",5,12
+"Yueh-Yun Chi",5,12
+"Grace Wahba",4,12
+"Yao-Ban Chan",4,12
+"Yoonkyung Lee",4,12
+"David Neil Hayes",3,12
+"Jianqing Fan",146,13
+"Qiwei Yao",29,13
+"Song Xi Chen",28,13
+"Yacine Ait-Sahalia",18,13
+"Yazhen Wang",18,13
+"Cheng Yong Tang",16,13
+"Bo Li",11,13
+"Jian Zou",9,13
+"Liang Peng",8,13
+"Sam Efromovich",8,13
+"Jiancheng Jiang",7,13
+"Per Aslak Mykland",7,13
+"Bing-Yi Jing",6,13
+"Lan Zhang",6,13
+"Neil Bathia",6,13
+"Xin-Bing Kong",6,13
+"Zhi Liu",6,13
+"Ke Yu",5,13
+"Michael Sherman",5,13
+"Tatiyana V Apanasovich",5,13
+"Yingying Li",5,13
+"Yongtao Guan",5,13
+"Guodong Li",4,13
+"James A Calvin",4,13
+"Jean Jacod",4,13
+"Jiti Gao",4,13
+"Shiqing Ling",4,13
+"Tsz Ho Yim",4,13
+"Wai Keung Li",4,13
+"Arthur Yu Lu",3,13
+"Ingo Steinwart",3,13
+"Jeff Racine",3,13
+"Jiazhu Pan",3,13
+"Ke Zhu",3,13
+"Mahlet G Tadesse",3,13
+"Qi Li",3,13
+"Peter J Bickel",47,14
+"Cun-Hui Zhang",45,14
+"Alexandre B Tsybakov",38,14
+"Jian Huang",35,14
+"Emmanuel J Candes",21,14
+"Martin J Wainwright",16,14
+"Terence Tao",16,14
+"Sara van de Geer",15,14
+"Alexandre Belloni",13,14
+"Lukas Meier",13,14
+"Marten H Wegkamp",13,14
+"Victor Chernozhukov",11,14
+"Vladimir Koltchinskii",10,14
+"Yaacov Ritov",10,14
+"Karim Lounici",9,14
+"Florentina Bunea",8,14
+"Tong Zhang",8,14
+"Sahand Negahban",7,14
+"Sara A van de Geer",7,14
+"Marc Hallin",6,14
+"Guillaume Lecue",5,14
+"Lie Wang",5,14
+"Angelika Rohde",4,14
+"Philippe Rigollet",4,14
+"Shahar Mendelson",4,14
+"Adrian Barbu",3,14
+"Alexander Goldenshluger",3,14
+"Davy Paindaveine",3,14
+"Pascal Massart",3,14
+"Hui Zou",94,15
+"Runze Li",65,15
+"Peter Buhlmann",48,15
+"Nicolai Meinshausen",43,15
+"Yi Lin",42,15
+"Elizaveta Levina",40,15
+"Ming Yuan",39,15
+"Trevor J Hastie",39,15
+"Jianhua Z Huang",34,15
+"Ji Zhu",33,15
+"Heng Peng",31,15
+"Chenlei Leng",30,15
+"Jinchi Lv",30,15
+"Joel L Horowitz",30,15
+"Shuangge Ma",27,15
+"Robert J Tibshirani",22,15
+"Mohsen Pourahmadi",21,15
+"Gareth M James",20,15
+"Hongzhe Li",17,15
+"Bin Yu",16,15
+"Clifford Lam",16,15
+"Adam J Rothman",15,15
+"Ping-Shou Zhong",15,15
+"Rui Song",15,15
+"Wei Biao Wu",14,15
+"Weidong Liu",11,15
+"Yang Feng",11,15
+"Yingying Fan",11,15
+"David R Hunter",10,15
+"George Michailidis",10,15
+"Guang Cheng",10,15
+"Jun Shao",10,15
+"Li-Xin Zhang",10,15
+"Saharon Rosset",10,15
+"Tao Huang",10,15
+"Wenbin Lu",10,15
+"Huiliang Xie",9,15
+"Jacob Bien",9,15
+"Jun-Iowa Li",9,15
+"Peter Radchenko",9,15
+"Fengrong Wei",7,15
+"Hsin-Cheng Huang",7,15
+"Jie Peng",7,15
+"Lan Wang",7,15
+"Lifeng Wang",7,15
+"Noureddine El Karoui",7,15
+"Pang Du",7,15
+"Ryan J Tibshirani",7,15
+"Tso-Jung Yen",7,15
+"Bo Kai",6,15
+"Brent A Johnson",6,15
+"Debashis Paul",6,15
+"Guilherme Rocha",6,15
+"Linxu Liu",6,15
+"Naiping Liu",6,15
+"Nengfeng Zhou",6,15
+"Peihua Qiu",6,15
+"Piotr Fryzlewicz",6,15
+"Howell Tong",5,15
+"Jerome H Friedman",5,15
+"Jialiang Li",5,15
+"Ming-Yen Cheng",5,15
+"Odile Pons",5,15
+"Susan A Murphy",5,15
+"Thomas Kneib",5,15
+"Xinwei Deng",5,15
+"Ying-Li Qin",5,15
+"Yiyun Zhang",5,15
+"Yuhong Yang",5,15
+"Yulia R Gel",5,15
+"Ching-Kang Ing",4,15
+"Daniela M Witten",4,15
+"Deli Wang",4,15
+"Huajun Ye",4,15
+"Jessica Minnier",4,15
+"Jing-Hao Xue",4,15
+"Lu-Hung Chen",4,15
+"Ning Hao",4,15
+"Ping Ma",4,15
+"Sanjay Chaudhuri",4,15
+"Shaojun Guo",4,15
+"Xinyu Zhang",4,15
+"Yuedong Wang",4,15
+"Alessandro Baldi Antognini",3,15
+"Bodhisattva Sen",3,15
+"Charles J Geyer",3,15
+"Eitan Greenshtein",3,15
+"Haipeng Shen",3,15
+"Hee-Seok Oh",3,15
+"Hosik Choi",3,15
+"Ian W McKeague",3,15
+"Kai-Tai Fang",3,15
+"Kun Chen",3,15
+"Linda H Zhao",3,15
+"M Zagoraiou",3,15
+"Masao Ueki",3,15
+"Minjing Tao",3,15
+"Moulinath Banerjee",3,15
+"Nam Hee Choi",3,15
+"Qing Mai",3,15
+"SEONGHO Wu",3,15
+"Siji Wang",3,15
+"Wenxin Jiang",3,15
+"William Li",3,15
+"Xi Luo",3,15
+"Xin Tong",3,15
+"Yair Goldberg",3,15
