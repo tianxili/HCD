@@ -9,7 +9,7 @@ The folder contains the following three data files and our R code for the paper 
 
 4. PaperCodeOnline.zip: the original code for the paper simulation. Notice that the code is not polished and contains many unused options. We include it here for transparency but generally recommend anyone who are interested to use the clean version of our code -- the R package HCD (see next).
 
-5. HCD_0.1.tar.gz: the R package HCD for our algorithm. It is a CRAN compatible version and can be directly installed in R by using install.packages. The package is also available on CRAN.
+5. HCD_1.0.tar.gz: the R package HCD for our algorithm. The package is also available on CRAN.
 
 Please refer the following two papers if the data are used.
 
